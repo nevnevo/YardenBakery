@@ -64,8 +64,8 @@
         <img style="position:absolute; left:37.5%; height:40%; object-fit:cover; margin: -7% auto" class="nigga1" src="pics/yardenlaviunfus1.jpg" />
 
         </br></br></br>
-        <button id="AboutButton" class="button"><a href="Menu.aspx"; style="text-decoration-line:none; color:black">About</a></button> </br></br></br>
-        <button id="ContactButton" class="button"><a href="Menu.aspx"; style="text-decoration-line:none; color:black">Contact</a></button>
+        <button id="AboutButton" class="button"><a href="About.aspx"; style="text-decoration-line:none; color:black">About</a></button> </br></br></br>
+        <button id="ContactButton" class="button"><a href="Contact.aspx"; style="text-decoration-line:none; color:black">Contact</a></button>
         <h2>Customers recommend</h2>
     </div>
     <img class="nigga2" src="pics/rcmd2.png" /> <br/>
