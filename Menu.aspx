@@ -84,7 +84,7 @@
         </center>
         <img style="position:absolute; left:37.5%; height:60%; object-fit:cover; margin: 3% 15%""; src="pics/cake.jpg"/>
     <div style="margin: 100px 200px;">
-        <button id="MenuButton" class="button" ><a href="HomePage.aspx"; style="text-decoration-line:none; color:black">Back to HOME</a></button></br></br></br>
+        <button id="MenuButton" class="button" ><a href="index.aspx"; style="text-decoration-line:none; color:black">Back to HOME</a></button></br></br></br>
        <button id="MenuButton" class="button" ><a href="About.aspx"; style="text-decoration-line:none; color:black">About us</a></button></br></br></br>
         <button id="MenuButton" class="button" ><a href="Contact.aspx"; style="text-decoration-line:none; color:black">Contact</a></button>
 
